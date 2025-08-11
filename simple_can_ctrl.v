@@ -1,3 +1,4 @@
+`default_nettype none
 `timescale 1ns/1ps
 
 // 简化版 CAN 控制器寄存器外壳 + 自环(loopback)验证路径
@@ -173,3 +174,4 @@ endmodule
 
 
             
+
